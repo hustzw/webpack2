@@ -1,0 +1,14 @@
+@import './flex.css';
+/*一定要加 ; 否则出错*/
+html, body {
+	padding: 0;
+	margin: 0;
+	background-color: green;
+}
+
+ul, li {
+	padding: 0;
+	margin: 0;
+	list-style:  none;
+}
+
